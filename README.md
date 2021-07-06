@@ -24,6 +24,7 @@ required hardware
 1. Arduino Uno
 2. 3 male to male jumper cable
 3. 1 servo
+
 follow the steps started above 
 
 hook up the hardware as shown below
