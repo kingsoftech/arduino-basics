@@ -26,7 +26,9 @@ required hardware
 3. 1 servo
 follow the steps started above 
 hook up the hardware as shown below
-![image](https://user-images.githubusercontent.com/39423180/124561423-caae8500-de35-11eb-90c2-0ba3c486866a.png)
+
+![image](https://user-images.githubusercontent.com/39423180/124561656-0b0e0300-de36-11eb-96ee-45e4a5b3aeaf.png)
+
 
 
  
