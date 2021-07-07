@@ -31,6 +31,8 @@ hook up the hardware as shown below
 
 ![image](https://user-images.githubusercontent.com/39423180/124561656-0b0e0300-de36-11eb-96ee-45e4a5b3aeaf.png)
 
+
+download servo.ino and run it on arduino
 ****Serial Communication****
 required hardware
 1. Arduino Uno
@@ -38,10 +40,12 @@ required hardware
 3. 1 potentiometer
 make sure python is installed on your laptop
 follow the steps stated above
-download SerialPot.ino and SerialPot.py
+download SerialUsingPot.ino and SerialUsingPot.py
 then hook up sensor as below
 
 ![image](https://user-images.githubusercontent.com/39423180/124795214-b6f34380-df47-11eb-94f5-5e94b2053c7a.png)
+
+download 
 
 
 
