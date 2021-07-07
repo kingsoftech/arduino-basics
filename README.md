@@ -45,4 +45,7 @@ then hook up sensor as below
 
 ![image](https://user-images.githubusercontent.com/39423180/124795214-b6f34380-df47-11eb-94f5-5e94b2053c7a.png)
 
+
+follow the follwoing steps in the link below to install python
  
+https://phoenixnap.com/kb/how-to-install-python-3-windows
