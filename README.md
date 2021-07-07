@@ -40,13 +40,9 @@ required hardware
 3. 1 potentiometer
 make sure python is installed on your laptop
 follow the steps stated above
-download SerialUsingPot.ino and SerialUsingPot.py
+download SerialUsingPot.ino and run it with arduino and SerialUsingPot.py and this with python
 then hook up sensor as below
 
 ![image](https://user-images.githubusercontent.com/39423180/124795214-b6f34380-df47-11eb-94f5-5e94b2053c7a.png)
-
-download 
-
-
 
  
