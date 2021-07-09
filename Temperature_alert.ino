@@ -1,9 +1,9 @@
 float temp;
-int ledPin = 7;
+int buzzerPin = 7;
 void setup() {
   // put your setup code here, to run once:
 
-pinMode(ledPin, OUTPUT);
+pinMode(buzzerPin, OUTPUT);
 Serial.begin(9600);
 }
 
@@ -21,7 +21,7 @@ void loop() {
     digitalWrite(ledPin, HIGH);
   }
   else{
-    digitalWrite(ledPin,LOW);
+    digitalWrite(buzzerPin,LOW);
   }
   
 
