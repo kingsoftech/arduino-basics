@@ -1,9 +1,9 @@
 float temp;
-int ledPin = 7;
+
 void setup() {
   // put your setup code here, to run once:
 
-pinMode(ledPin, OUTPUT);
+
 Serial.begin(9600);
 }
 
