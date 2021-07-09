@@ -15,16 +15,11 @@ dataList = [0]*numPoints
 def getValue():
     b = ser.write(b'g')
     arduinoData =ser.readline().decode().split('\r\n')
-    return arduinoData[0]
+    return arduinoData
 
 while(1):
-    userInput = input('Get data point?')
-    
-    if userInput =='y':
-        for i in range(0, numPoints):
-            data = getValue()
-            dataList[i]=data
-        print(dataList)
+    print(getValue())
+   
         
      
     
