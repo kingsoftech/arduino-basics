@@ -31,6 +31,13 @@ hook up the hardware as shown below
 
 ![image](https://user-images.githubusercontent.com/39423180/124561656-0b0e0300-de36-11eb-96ee-45e4a5b3aeaf.png)
 make sure that your arduino Serial monitor is off before running the python app
+****LM35 TEMPERATURE SENSOR****
+1. Arduino Uno
+2. 3 male to male jumper cable
+3. 1 lm35 temperature
+hook up the sensor as below
+![image](https://user-images.githubusercontent.com/39423180/125129885-feb8cd00-e0f7-11eb-8f0f-f298b9c7eb31.png)
+
 
 
 download servo.ino and run it on arduino
