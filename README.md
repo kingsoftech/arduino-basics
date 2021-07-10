@@ -63,4 +63,5 @@ required hardware
 2. 12 male to male jumper cable
 3. 1 potentiometer
 4. 16x2 LCD display
-
+connect the circuit as below
+![image](https://user-images.githubusercontent.com/39423180/125177969-2c754300-e1d8-11eb-9b93-dc6ef06c428d.png)
