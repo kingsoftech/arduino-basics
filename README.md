@@ -57,3 +57,10 @@ then hook up sensor as below
 follow the follwoing steps in the link below to install python
  
 https://phoenixnap.com/kb/how-to-install-python-3-windows
+****LCD DISPLAY****
+required hardware
+1. Arduino Uno
+2. 12 male to male jumper cable
+3. 1 potentiometer
+4. 16x2 LCD display
+
