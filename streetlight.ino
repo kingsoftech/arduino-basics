@@ -1,7 +1,7 @@
-int redPin = 2;
-int yellowPin = 4;
-int greenPin = 3;
-int buttonPin = 5;
+int redPin = 2;//setting pin 2 for red LED
+int yellowPin = 4;// setting pin 4 for yellow LED
+int greenPin = 3;// setting pin 3 for green
+int buttonPin = 5;//setting Pin5 as button pin
 int state = 0;
 void setup() {
   // put your setup code here, to run once:
